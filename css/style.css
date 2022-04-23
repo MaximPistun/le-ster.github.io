@@ -27,35 +27,14 @@ body{
 
 @media (prefers-color-scheme: dark) {
     body { 
-        background: #333; 
+        background: #FFF; 
         color: #000;
-    }
-    .header {
-        background-color:rgba(255, 255, 255, 0.861);
-    }
-    .header__link {
-        color: #000;
-    }
-    .header__link:hover::before{
-        background-color: #99999933;
-    }
-    .dropdown__container{
-        background: linear-gradient(rgba(255, 255, 255, 0.861),#eceff1e5);
-    }
-    .dropdown__link{
-        color: #000;
-    }
-    .dropdown__link:hover{
-        background-color: #99999933;
-    }
-    .dropdown__link:active{
-        background-color: #9999993b;
     }
   }
   
 @media (prefers-color-scheme: light) {
     body { 
-        background: #333; 
+        background: #FFF; 
         color: #000;
     }
     .header {
