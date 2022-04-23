@@ -27,14 +27,14 @@ body{
 
 @media (prefers-color-scheme: dark) {
     body { 
-        background: #red; 
+        background: red; 
         color: #000;
     }
   }
   
 @media (prefers-color-scheme: light) {
     body { 
-        background: #blue; 
+        background: blue; 
         color: #000;
     }
 }
